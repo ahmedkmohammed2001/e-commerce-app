@@ -1,0 +1,28 @@
+// Arabic Translations
+const Map<String, String> ar = {
+  'Welcome': 'مرحباً',
+  'Login': 'تسجيل الدخول',
+  'Sign up': 'انشاء حساب',
+  'Logout': 'تسجيل خروج',
+  'Search': 'بحث',
+  'Homepage': 'الصفحة الرئيسية',
+  'Categories': 'الفئات',
+  'Products': 'المنتجات',
+  'About us': 'حول التطبيق',
+  'Phone': 'الهاتف',
+  'First Name': 'الاسم الأول',
+  'Last Name': 'الاسم الأخير',
+  'Password': 'كلمة المرور',
+  'Sign in': 'تسجيل الدخول',
+  'Keep me sign in': 'حفظ الحساب',
+  'Don\'t have an account ?': 'لا أملك حساب',
+  'Already have an account ?': 'أملك حساب مسبقاً',
+  'Expier : ': 'تاريخ انتهاء الصلاحية ',
+  'Category : ': 'الفئة',
+  'Phone : ': 'الهاتف',
+  'Quantity : ': 'الكمية',
+  'Price : ': 'السعر',
+  'Views : ': 'عدد المشاهدات',
+   'Add comment ...': 'أضف تعليقاً',
+
+};
